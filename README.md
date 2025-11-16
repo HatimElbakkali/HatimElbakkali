@@ -11,10 +11,10 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 
 ## 🌍 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="www.linkedin.com/in/hatim-elbakkali-ba750a380" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/" target="_blank">
+<a href="https://www.instagram.com/hatim._.elbakkali/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
