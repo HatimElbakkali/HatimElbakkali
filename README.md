@@ -3,13 +3,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 
 Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both front-end and back-end, with a strong passion for back-end development and aiming to specialize in it professionally.
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me:
 <p align="left">
 <a href="www.linkedin.com/in/hatim-elbakkali-ba750a380" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -21,7 +21,7 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages & Tools:  
 <p align="left">
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -36,7 +36,7 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
 
