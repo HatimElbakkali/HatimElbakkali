@@ -42,14 +42,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
     height="180"
   />
 
-    <!-- Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
     height="180"
