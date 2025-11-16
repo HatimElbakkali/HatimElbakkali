@@ -42,6 +42,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+
+  <!-- Most Used Languages -->
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
     height="180"
@@ -52,6 +55,9 @@
     height="180"
   />
 
+
 </p>
+
+
 </div>
 
