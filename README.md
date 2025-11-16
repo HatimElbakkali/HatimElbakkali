@@ -48,14 +48,15 @@
 
 ---
 
-## 📊 GitHub Stats (Dark + Blue, No Border)
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117" />
+## 📊 GitHub Stats 
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117&border_color=00000000" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117&border_color=00000000" />
 </p>
+
 
 ---
 
