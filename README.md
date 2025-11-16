@@ -6,8 +6,6 @@
 ### 👨‍💻 About Me
 
 Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both front-end and back-end, with a strong passion for back-end development and aiming to specialize in it professionally.
-🔗All Link social media: 
-  https://linktr.ee/HatimElbakkali
 
 ---
 
@@ -34,6 +32,23 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
 </a>
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <!-- GitHub Stats (First) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    height="180"
+  />
+
+  <!-- Most Used Languages (Second) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    height="180"
+  />
+
 </p>
 
 
