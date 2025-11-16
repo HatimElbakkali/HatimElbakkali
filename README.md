@@ -46,7 +46,7 @@
   <!-- Most Used Languages -->
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=8cf2ff&icon_color=8cf2ff&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=darkGrey&title_color=57dce6&text_color=57dce6&icon_color=57dce6&hide_border=true"
     height="180"
   />
 
