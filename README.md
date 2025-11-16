@@ -49,23 +49,26 @@
 ---
 
 ## 📊 GitHub Stats 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117&border_color=00000000" />
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    height="180"
+  />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    height="180"
+  />
+
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0d1117&border_color=00000000" />
-</p>
 
 
----
-
-<div align="center">
-
-### 🔁 Code Life Cycle  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%">
 
 </div>
 
