@@ -33,23 +33,27 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
 </a>
 </p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
 
   <!-- GitHub Stats (First) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&bg_color=1A1A1A&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&hide_border=true"
     height="180"
   />
 
   <!-- Most Used Languages (Second) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&bg_color=1A1A1A&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&hide_border=true"
     height="180"
   />
 
 </p>
+
 
 
 </div>
