@@ -5,11 +5,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **HTML, CSS & Python**  
-- 🔥 Full Stack Student — building my skills step by step  
-- 💻 I enjoy creating clean, simple and modern web interfaces  
-- 🎯 My goal: become a professional full stack developer  
-- 📬 Contact me: **hatimelbakklai840@gmail.com**
+Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both front-end and back-end, with a strong passion for back-end development and aiming to specialize in it professionally.
+🔗All Link social media: 
+  https://linktr.ee/HatimElbakkali
 
 ---
 
