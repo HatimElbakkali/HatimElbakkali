@@ -39,23 +39,9 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <!-- GitHub Stats (First) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
-    height="180"
-  />
-
-  <!-- Most Used Languages (Second) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&bg_color=111111&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
-    height="180"
-  />
-
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mohamedCleanCode&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedCleanCode&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedCleanCode&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 </div>
