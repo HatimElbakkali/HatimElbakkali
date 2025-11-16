@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatim Elbakkali</h1>
-<h3 align="center">A passionate Full Stack Student from Morocco</h3>
+<h3 align="center"> OFPPT Full Stack Student</h3>
 
 ---
 
@@ -27,37 +27,21 @@
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown" alt="Markdown" width="40" height="40"/>
-</a>
-
 </p>
 
 ---
-
-## 📊 GitHub Stats 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
-    height="180"
-  />
 
   <!-- GitHub Stats -->
   <img 
@@ -65,10 +49,12 @@
     height="180"
   />
 
+    <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&hide_border=true"
+    height="180"
+  />
+
 </p>
-
-
-
-
 </div>
 
