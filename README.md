@@ -34,27 +34,5 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 </a>
 </p>
 
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-
-  <!-- GitHub Stats (First) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hatimelbakkali&show_icons=true&locale=en&bg_color=1A1A1A&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&hide_border=true"
-    height="180"
-  />
-
-  <!-- Most Used Languages (Second) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hatimelbakkali&show_icons=true&locale=en&layout=compact&bg_color=1A1A1A&title_color=87CEEB&text_color=87CEEB&icon_color=87CEEB&hide_border=true"
-    height="180"
-  />
-
-</p>
-
-
-
 </div>
 
