@@ -14,13 +14,12 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 <a href="www.linkedin.com/in/hatim-elbakkali-ba750a380" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+<a href="mailto:elbakkalihatim252@gmail.com">
+  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32" alt="Gmail"/>
+</a>
 <a href="https://www.instagram.com/hatim._.elbakkali/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32" alt="Gmail"/>
-</a>
-
 </p>
 
 ---
