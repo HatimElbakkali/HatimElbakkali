@@ -5,8 +5,7 @@
 
 ## 📬 Connect With Me:
 
-[![My Socials](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbakkalihatim252@gmail.com)
+[![My Socials](https://skillicons.dev/icons?i=linkedin,instagram,gmail)](https://skillicons.dev)
 
 ## 🛠️ Languages & Tools:
 
