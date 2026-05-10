@@ -5,7 +5,9 @@
 
 ## 📬 Connect With Me:
 
-[![My Socials](https://skillicons.dev/icons?i=linkedin,instagram,gmail&theme=dark)](https://skillicons.dev)
+<a href="https://www.linkedin.com/in/hatim-elbakkali-ba750a380/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/></a>
+<a href="https://www.instagram.com/hatim._.elbakkali/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48"/></a>
+<a href="mailto:elbakkalihatim252@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48"/></a>
 
 ## 🛠️ Languages & Tools:
 
