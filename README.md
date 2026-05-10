@@ -9,11 +9,11 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 
 ---
 
-## 🛠️ Languages & Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js)](https://skillicons.dev)
-
 ## 📬 Connect With Me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hatim-elbakkali-ba750a380/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hatim._.elbakkali/)
+
+## 🛠️ Languages & Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js)](https://skillicons.dev)
