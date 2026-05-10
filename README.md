@@ -9,12 +9,11 @@ Full-Stack Web Development student at OFPPT - Tetouan Park. Skilled in both fron
 
 ---
 
-## 📬 Connect With Me:
-
-<p align="left"><a href="https://www.linkedin.com/in/hatim-elbakkali-ba750a380/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="mailto:elbakkalihatim252@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="32" height="32" alt="Gmail"/></a><a href="https://www.instagram.com/hatim._.elbakkali/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></p>
-
----
-
 ## 🛠️ Languages & Tools:
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></p>
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js)](https://skillicons.dev)
+
+## 📬 Connect With Me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hatim-elbakkali-ba750a380/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hatim._.elbakkali/)
