@@ -5,7 +5,7 @@
 
 ## 📬 Connect With Me:
 
-[![My Socials](https://skillicons.dev/icons?i=linkedin,instagram,gmail)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=linkedin,instagram,gmail&theme=dark)](https://skillicons.dev)
 
 ## 🛠️ Languages & Tools:
 
