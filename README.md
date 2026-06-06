@@ -11,5 +11,9 @@
 
 ## 🛠️ Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js,mysql)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js,mysql" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
+</p>
