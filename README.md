@@ -12,4 +12,4 @@
 ## 🛠️ Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js,mysql)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48"/>
