@@ -11,4 +11,4 @@
 
 ## 🛠️ Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,bootstrap,js,mysql,PHP)](https://skillicons.dev)
