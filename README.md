@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hatim-elbakkali-ba750a380/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hatim._.elbakkali/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:elbakkalihatim252@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hatim.elbakkali.dev@gmail.com)
 
 ## 🛠️ Languages & Tools:
 
