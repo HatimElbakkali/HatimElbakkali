@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hatim Elbakkali</h1>
-<h3 align="center">OFPPT Full Stack Student</h3>
+<h3 align="center">CMC Full Stack Student</h3>
 
 ---
 
